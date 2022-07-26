@@ -5,7 +5,7 @@
  * [WHU](http://study.rsgis.whu.edu.cn/pages/download/building_dataset.html "WHU")
  * [SPACENET](https://spacenet.ai/spacenet-buildings-dataset-v2/ "SPACENET")
 ## Usage
- Clone the repository: git clone https://github.com/lehaifeng/MAPNet.git  
+ Clone the repository: git clone https://github.com/zhengxc97/MMBNET.git  
   Hyper-parameters configuration and training are implemented in train.py;  
   The Pytorch implementation of MMB-Net and other related networks are in the model folder;  
   predict.py predict the test dataset, and valid.py evaluate the pixel-level IoU, precision, recall and F1_score metric.  
